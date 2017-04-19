@@ -3,5 +3,5 @@
 ```
 $ brew tap ieee0824/thor
 $ brew update
-$ brew install
+$ brew install thor
 ```
